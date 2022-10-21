@@ -2,9 +2,19 @@
 
     "Questions":[
         {"Q1":"Que es el almicantarat"},
-        {"Q1":"donde se encuentra el zenit"},
-        {"Q1":"Que es el almicantarat"}
+        {"Q2":"donde se encuentra el zenit"},
+        {"Q3":"Que es el almicantarat"},
+        {"Q4":"Cual es la derivada de una constante"},
+        {"Q5":"La integral de 1/x es igual a"},
+        {"Q6":"Cuantas sedes tiene la universidad distrital"},
+        {"Q7":"Principal componente de los suelos andisoles"},
+        {"Q8":"Que información nos brinda un teodolito"},
+        {"Q9":"Las rocas tienen componentes quimicos y fisicos"}
+
     ]
+
+
+    mediador
 
 
 
